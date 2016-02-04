@@ -5,7 +5,7 @@ your private Bluemix Catalog to be consumed by applications
  
 This demo is an example of a Micro Service
 
-<h3> Deploy to Bluemix <h3>
+<h3> Deploy to Bluemix </h3>
 
 - Clone project as follows
 
