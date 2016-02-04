@@ -1,0 +1,8 @@
+applications:
+- name: springboot-swagger-rest
+  memory: 512M
+  instances: 1
+  host: apples-${random-word}
+  domain: mybluemix.net
+  buildpack: java_buildpack
+  path: ./target/BluemixSwaggerEnablement-0.0.1-SNAPSHOT.jar
