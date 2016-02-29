@@ -34,6 +34,7 @@ public class BluemixSwaggerEnablementApplication {
 		return new ApiInfoBuilder()
 				.title("Spring Employee REST Sample with Swagger")
 				.description("Spring Employee REST Sample with Swagger")
+				.version("1.0")
 				.contact("Pas Apicella")
 				.license("Apache License Version 2.0")
 				.build();
